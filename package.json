@@ -2,7 +2,7 @@
   "name": "searchable-product-data-table",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Goran202/Searchable-product-data-table-3.git",
+  "homepage": "https://goran202.github.io/Searchable-product-data-table-3/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "prop-types": "^15.7.2",
